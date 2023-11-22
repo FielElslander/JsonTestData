@@ -1,1 +1,99 @@
 [
+  {
+        "Id": 1,
+        "Date": "2015-01-01",
+        "Name": "Los santos meet",
+        "Location": "Los santos hub",
+        "Land": "USA",
+        "Income": "10 USD",
+        "Parkingspots": 50,
+        "StartTime": "9 PM",
+        "EndTime": "11 PM",
+        "Participants": [
+          {
+            "Id": 1,
+            "Name": "Fiel Elslander",
+            "Phonenumer": 0476 48 69 32,
+            "Cars": 
+              [
+                {
+                "Id": 1,
+                "Brand": "Ford",
+                "Model": "Mustang",
+                "Year": 2008,
+                "Horsepower": 355,
+                "Torque": 666,
+                "UserId": 1
+                }
+              ]
+          }
+        ]
+    },
+    {
+    "Id": 2,
+    "Date": "2023-05-15",
+    "Name": "City Cruise",
+    "Location": "Downtown",
+    "Land": "USA",
+    "Income": "0 USD",
+    "Parkingspots": 30,
+    "StartTime": "7 PM",
+    "EndTime": "10 PM",
+    "Participants": []
+    },
+    {
+    "Id": 3,
+    "Date": "2023-07-20",
+    "Name": "Speed Enthusiasts Meet",
+    "Location": "Race Track",
+    "Land": "USA",
+    "Income": "25 USD",
+    "Parkingspots": 40,
+    "StartTime": "2 PM",
+    "EndTime": "5 PM",
+    "Participants": [
+        {
+            "Id": 2,
+            "Name": "Alicia Rodriguez",
+            "PhoneNumber": "555-1234",
+            "Cars": [
+                {
+                    "Id": 2,
+                    "Brand": "Chevrolet",
+                    "Model": "Camaro",
+                    "Year": 2015,
+                    "Horsepower": 426,
+                    "Torque": 420,
+                    "UserId": 2
+                },
+                {
+                    "Id": 3,
+                    "Brand": "Dodge",
+                    "Model": "Challenger",
+                    "Year": 2017,
+                    "Horsepower": 485,
+                    "Torque": 475,
+                    "UserId": 2
+                }
+            ]
+        },
+        {
+            "Id": 3,
+            "Name": "Michael Johnson",
+            "PhoneNumber": "555-5678",
+            "Cars": [
+                {
+                    "Id": 4,
+                    "Brand": "BMW",
+                    "Model": "M3",
+                    "Year": 2019,
+                    "Horsepower": 473,
+                    "Torque": 406,
+                    "UserId": 3
+                }
+            ]
+        }
+    ]
+}
+
+]
