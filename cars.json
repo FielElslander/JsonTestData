@@ -1,6 +1,29 @@
 [
   {
     "Id": 1,
-    "Model"
+    "Brand": "Ford",
+    "Model": "Mustang",
+    "Year": 2010,
+    "Horsepower": 355,
+    "Torque": 666,
+    "UserId": 1
+  },
+  {
+    "Id": 2,
+    "Brand": "Lamborghini",
+    "Model": "Aventator",
+    "Year": 2023,
+    "Horsepower": 689,
+    "Torque": 752,
+    "UserId": 2
+  },
+  {
+    "Id": 3,
+    "Brand": "Ferrari",
+    "Model": "LP201",
+    "Year": 1992,
+    "Horsepower": 355,
+    "Torque": 280,
+    "UserId": 3
   }
 ]
