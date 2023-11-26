@@ -10,7 +10,23 @@
     "name": "Sunset Drivers",
     "Land": "Germany",
     "members": [
-      
+      {
+            "Id": 1,
+            "Name": "Fiel Elslander",
+            "Phonenumer": "0476 48 69 32",
+            "Cars": 
+              [
+                {
+                "Id": 1,
+                "Brand": "Ford",
+                "Model": "Mustang",
+                "Year": 2008,
+                "Horsepower": 355,
+                "Torque": 666,
+                "UserId": 1
+                }
+              ]
+          }
     ]
   }
 ]
